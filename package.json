@@ -1,0 +1,19 @@
+{
+  "name": "protoapp",
+  "version": "1.0.0",
+  "description": "Proto App with foursquare",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amigon88/protoApp.git"
+  },
+  "author": "amigon88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amigon88/protoApp/issues"
+  },
+  "homepage": "https://github.com/amigon88/protoApp#readme"
+}

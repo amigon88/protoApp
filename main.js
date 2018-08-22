@@ -6,7 +6,7 @@ request({
     qs: {
         client_id: '3KVQEG0L053FTJZXCDF2XWMJ3OAXP4T1BNPKV5VJOPD5IVGC',
         client_secret: 'RV3I5BHPVOCBSDTR3G2RXFOZAJAVHJ1LFHKYWHACIWMWOTHP',
-        ll: '20.65969879999999,-103.34960920000003',
+        near: 'Guadalajara',
         query: 'coffee',
         v: '20170801',
         limit: 1
